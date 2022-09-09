@@ -1,6 +1,6 @@
 # 🏠TBSmartHome - Home Assistant Configuration
 
-<img align="right" src="./.assets/logo.png?raw=true">
+<img align="right" src="src="https://www.home-assistant.io/images/favicon-192x192-full.png">
 
 This is my [Home Assistant](https://www.home-assistant.io/) configuration - based on many of the other great configurations are out there (and listed below)
 
